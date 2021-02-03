@@ -1,4 +1,4 @@
-# Project 2: Ames Housing Data and Kaggle Challenge
+# Ames Housing Prices Kaggle Challenge
 
 
 ## Problem Statement
